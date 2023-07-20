@@ -5,5 +5,5 @@
             "runtimeArgs": []
         }
     },
-    "insecure-registries": ["office.bisect.pt:40002", "192.168.88.254", "192.168.88.254:8082" ]
+    "insecure-registries": ["192.168.88.254", "192.168.88.254:8082" ]
 }
